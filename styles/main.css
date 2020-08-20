@@ -284,15 +284,15 @@ p > code {
 .site-author-name {
   margin: 0;
   text-align: center;
-  color: #222;
+  color: #000000;
   font-weight: 600;
-  font-size: 1em;
+  font-size: 2.5em;
 }
 .site-description {
   margin-top: 0;
   text-align: center;
-  font-size: 0.8125em;
-  color: #999;
+  font-size: 1em;
+  color: #fff;
   margin: 0 0 10px 0;
 }
 .sidebar-item-social {
